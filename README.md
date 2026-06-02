@@ -17,7 +17,7 @@ I enjoy transforming ideas into real-world products with clean UI, smooth perfor
 ## 🌐 Portfolio
 
 👉 Visit my portfolio:  
-### [skhasan-dev Portfolio](https://skhasan-dev.github.io/portfolio/)
+### [skhasan-dev](https://skhasan-dev.github.io/portfolio/)
 
 ---
 
