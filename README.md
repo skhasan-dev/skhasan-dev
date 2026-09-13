@@ -1,95 +1,96 @@
-# Hi there 👋 I'm Hasan Shaikh
+<div align="center">
 
-### Flutter Developer • Full Stack Enthusiast • Open Source Builder
+# Hasan Shaikh
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+**Flutter Developer · Open Source Builder · Founder @ HasNeticLabs**
 
-I’m a passionate software developer focused on building modern, scalable, and user-friendly mobile applications using Flutter.  
-I enjoy transforming ideas into real-world products with clean UI, smooth performance, and meaningful user experiences.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://skhasan-dev.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-hasan-shaikh)
+[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_feature_cli)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skhasan-dev)
 
-🚀 Founder of **HasneticLabs**  
-📱 Creator of apps like **PassVault**, **Hex AI**, **HasicX**, and **QuroScanner**  
-💡 Interested in Flutter, Node.js, AI integrations, and UI/UX design  
-🌱 Currently exploring advanced backend architecture & scalable systems
-
----
-
-## 🌐 Portfolio
-
-👉 Visit my portfolio:  
-### [skhasan-dev](https://skhasan-dev.github.io/portfolio/)
+</div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 PassVault
-A secure password manager app with modern encryption and clean user experience.
-
-### 🤖 Hex AI
-AI chatbot application powered by OpenAI APIs with smooth conversational UI.
-
-### 🎵 HasicX
-Feature-rich music player with playlists, favorites, loop controls, and background playback.
-
-### 📷 QuroScanner
-Fast QR code scanner & generator with elegant UI and optimized performance.
+- 🏢 Flutter Developer at **Wybrid Technology** — building enterprise apps used by **500+ users**
+- 📦 Creator of **flutter_feature_cli** — open-source Flutter scaffolding tool with **150+ downloads on pub.dev**
+- 📱 **6 apps** published on the Google Play Store
+- 🏗️ Focused on **Clean Architecture**, scalable state management, and maintainable code
+- 🚀 Founder of **HasNeticLabs** — building tools and apps people genuinely enjoy using
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Stack
 
-### Mobile Development
+<div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Backend & Database
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Tools & Platforms
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6C47FF?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skhasan-dev&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skhasan-dev&theme=tokyonight" height="170">
-</p>
+</div>
 
 ---
 
-## 🧠 Currently Working On
+## 🚀 Flagship Work
 
-- Building scalable Flutter applications
-- AI-powered mobile experiences
-- Clean architecture & reusable components
-- Backend APIs with Node.js & MongoDB
+### 📦 [`flutter_feature_cli`](https://pub.dev/packages/flutter_feature_cli) — Open Source
 
----
+> A Dart CLI tool that automates Flutter feature scaffolding.  
+> Supports **Clean Architecture · Partial Clean · MVC · MVVM · Custom templates**  
+> Generate consistent folder structures and barrel files in seconds.
 
-## 📫 Connect With Me
+```bash
+dart pub global activate flutter_feature_cli
+flutter_feature create auth --arch clean
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://skhasan-dev.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skhasan-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-
----
-
-## ✨ Quote I Follow
-
-> “Build products that people genuinely enjoy using.”
+📦 **150+ downloads on pub.dev** &nbsp;·&nbsp; [View on pub.dev →](https://pub.dev/packages/flutter_feature_cli)
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile ❤️
-</p>
+### 🤖 Hex : Your Personal AI &nbsp; · &nbsp; [View on Google Play →](https://play.google.com/store/apps/details?id=com.HSN.hex_chatbot)
+
+| | |
+|---|---|
+| **Type** | AI Chatbot |
+| **Tech** | Flutter · OpenAI GPT-4o Mini · Firebase · GetX |
+| **Highlight** | Optimized prompts · 50 free requests/day |
+| **Downloads** | 📲 100+ on Google Play Store |
+
+---
+
+### 🎵 HasicX : Music Player &nbsp; · &nbsp; [View on Google Play →](https://play.google.com/store/apps/details?id=com.HSN.hasicx)
+
+| | |
+|---|---|
+| **Type** | Media Player |
+| **Tech** | Flutter · Dart · SQLite |
+| **Highlight** | Background playback · Notification controls · Playlist management |
+| **Downloads** | 📲 50+ on Google Play Store |
+
+---
+
+## 📱 More on Google Play
+
+> Explore all 6 published apps on the Play Store — utilities, media, productivity, and AI tools.
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="70">](https://play.google.com/store/apps/developer?id=HasNetic+Labs)
+
+---
+
+<div align="center">
+
+*"Build products that people genuinely enjoy using."*
+
+</div>
